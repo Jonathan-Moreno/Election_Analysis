@@ -30,9 +30,11 @@ The analysis of the election results were as follows:
 * Winning Percentage: 73.8% 
 
 ## Future Application
+
 The code used to determine the election results in this analysis can be applied to future elections with data stored on csv files by changing the path where the "file_to_load" variable is initialized.
 * Example: ![File_to_load](https://user-images.githubusercontent.com/96406929/150031150-1d9a9546-73ee-43dc-9e81-11653134210c.png)
+
 Row indexes may have to be changed to fit the format of future csv files. For example the csv used to compile the results above had the format: Ballot ID, County, Candidate so indexes were as follows:
 * ![File_to_load](https://user-images.githubusercontent.com/96406929/150036160-93d5a3ea-68c0-4faf-a27f-bc3b08af490b.png)
 
-Row indexes may have to be changed to fit the format of future csv files. For example the csv used to compile the results above had the format: Ballot ID, County, Candidate so indexes were as follows:
+
